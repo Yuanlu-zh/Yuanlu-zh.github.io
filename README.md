@@ -1,4 +1,3 @@
-# Yuanlu-zh.github.io
 # Yuanlu Zhang – Personal Homepage
 
 欢迎访问我的个人主页。  
