@@ -1,1 +1,5 @@
 # Yuanlu-zh.github.io
+# Yuanlu Zhang – Personal Homepage
+
+欢迎访问我的个人主页。  
+我是郑州大学水工结构工程专业硕士生，研究方向为水工建筑物的安全防护，尤其是爆炸防护。我的研究方法包括现场实验与数值仿真（Abaqus、Ansys等）。更多项目和工具正在建设中。
